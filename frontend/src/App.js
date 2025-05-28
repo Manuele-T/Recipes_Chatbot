@@ -27,7 +27,7 @@ function App() {
   return (
     <div className="App">
       <header>
-        <h1>Vertex AI FAQ Chatbot</h1>
+        <h1>Recipes Chatbot</h1>
       </header>
 
       <form className="chat-form" onSubmit={ask}>
