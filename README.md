@@ -37,7 +37,6 @@ Live Application: [https://recipes-chatbot-748269624010.europe-west2.run.app/](h
 * **Deployment Platform:** Google Cloud Run
 * **Build Service:** Google Cloud Build (used for building the Docker image).
 
-
 ## Accessing the Deployed Application
 
 The chatbot is live and can be accessed at:
